@@ -1,6 +1,9 @@
-# Highscore API
+MD Highscore API
+================
+_The good old highscore-api, just with crazy markdown-based tests._
 
-## Usage
+Usage
+-----
 
 ### Database
 
